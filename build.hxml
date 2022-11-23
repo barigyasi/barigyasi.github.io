@@ -1,0 +1,5 @@
+-main Main
+-js docs/files/js/script.js
+-cp src/js/
+-cp /Applications/MAMP/htdocs/library/haxe/jQueryExtern/
+--macro js.jquery.Config.setVersion('3.4.1')
